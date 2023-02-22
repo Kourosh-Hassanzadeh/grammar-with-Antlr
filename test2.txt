@@ -1,0 +1,28 @@
+/*Kourosh Hassanzadeh 9912762552*/
+
+#is used for comments
+lib1 = require <math>; 
+func1 = from <math> require <floor>;
+
+class Test1(test) begin
+
+public bool po = true;
+
+switch month.name begin
+
+case "jan" :
+print("ok");
+break;
+
+case "feb":
+default:
+print("try again");
+end
+
+do begin
+ii++;
+end
+
+while(myname=="kourosh")
+
+end

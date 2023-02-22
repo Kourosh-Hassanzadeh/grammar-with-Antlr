@@ -1,0 +1,52 @@
+/*Kourosh Hassanzadeh 9912762552*/
+
+#is used for comments
+
+lib1 = require <math>; 
+func1 = from <math> require <floor>;
+func2 = from <math> => <floor>;
+func1 , func2 = from <math> require <floor> , from <math> => <rand>;
+
+class Test implements test1 , test2 begin
+
+private int pp , py;
+private float ff;
+public const int pc = 99/2;
+int rr = 2 + 3;
+int array[] = new int [5];
+double arr[] = [4,5 , 9,3 , 5,2];
+
+Test(int pp , float ff)begin #constructor
+this.pp=pp;
+this.ff=ff;
+end
+
+int funct1(string s1 = "hi" , char c2 = 'c')begin
+
+int temp;
+py = 9**6-9;
+
+if(py != 120)begin
+
+try begin
+py+=87;
+
+end
+
+catch(outofindex) begin
+print(err , "oops.");
+end
+
+end
+for( int ii=0 ; ii<8 or ii>5 ; ii++)begin
+
+py = (py * 7 ) // 8;
+
+end
+
+return temp ? 25 : (temp/2);
+end
+
+newlist.print(index[0]);
+
+end
